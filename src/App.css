@@ -1,0 +1,9 @@
+video {
+  position: relative;
+  width: 0 auto;
+  padding-left: 100px;
+}
+img{
+  inline-size: 100px;
+  width: 0 auto;
+}
